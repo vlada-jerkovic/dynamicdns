@@ -2,6 +2,8 @@
 Update your domain records whenever your home IP changes to keep your self-hosted website accessible.
 
 ## Installation
+On your linux machine (RasberryPi)
+
 ```
 apt update && apt install git -y
 git clone https://github.com/vlada-jerkovic/dynamicdns.git
