@@ -1,5 +1,5 @@
 # Cloudflare Dynamic DNS IP Updater
-Update your home dynamic IP for your domain if you are hosting your website.
+Update your domain records whenever your home IP changes to keep your self-hosted website accessible.
 
 ## Installation
 ```
